@@ -59,6 +59,10 @@ body{
   font-style: oblique;
   font-family: cursive;
 }
+.link{
+  font-size: 20px;
+  font-family: cursive;
+}
 .description{
   font-size: 15px;
   font-style: italic;
