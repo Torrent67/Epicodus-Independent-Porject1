@@ -1,15 +1,45 @@
 .header{
+  font-family: sans-serif;
   font-style: italic;
   font-size: 30px;
-  border: 2px solid black;
+  border: 2px solid lavender;
   padding: 3px;
   background-color: teal;
-  text-shadow: 1px 1px lavender;
+  color: lavender;
+  text-shadow: 2px 2px black;
+}
+.header2{
+  font-family: sans-serif;
+  font-style: italic;
+  font-size: 30px;
+  border: 2px black;
+  padding: 3px;
+  background-color: teal;
+  color: lavender;
+  text-shadow: 2px 2px black;
 }
 .jumbotron{
+  background-image: url(img/rain.jpg);
   text-align: center;
-  font-size: 10px;
+  font-size: 30px;
   h1 font-size: 10px;
-  background-image: url("960_grid.png");
+  text-shadow: 1px 1px lavender;
+  font-style: italic;
 }
+.column {
+  width: 700px;
+  float: left;
+}
+.background{
+  font-size: 20px;
+  font-style: italic;
+}
+.panel-body{
+  background-color: lavender;
+}
+.fancy{
+  font-size: 40px;
+  font-style: italic;
+  font-style: oblique;
+  font-family: cursive;
 }
