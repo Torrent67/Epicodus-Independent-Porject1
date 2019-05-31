@@ -40,7 +40,7 @@ body{
   font-size: 20px;
   font-style: italic;
 }
-.panel-body{
+.panel-body {
   background-color: lavender;
 }
 .panel-heading{
@@ -48,6 +48,7 @@ body{
   font-style: italic;
   font-family: sans-serif;
   color: lavender;
+  text-shadow: 1px 1px black;
 }
 .fancy{
   font-size: 80px;
@@ -60,6 +61,7 @@ body{
   font-style: italic;
   font-style: oblique;
   font-family: cursive;
+  text-shadow: 1px 1px black;
 }
 .link{
   font-size: 20px;
@@ -72,7 +74,7 @@ body{
 }
 #spin{
   width: 300px;
-  float: top;
+  float: right;
   center;
 }
 .interests{
@@ -84,4 +86,6 @@ body{
   .panel {
     height: : 32vh;
   }
+.why h1{
+  font-size: 1px;
 }
