@@ -1,3 +1,6 @@
+body{
+  background-color: grey;
+}
 .header{
   font-family: sans-serif;
   font-style: italic;
