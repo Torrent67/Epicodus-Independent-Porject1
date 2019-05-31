@@ -37,9 +37,26 @@
 .panel-body{
   background-color: lavender;
 }
+.panel-heading{
+  background-color: teal;
+  font-style: italic;
+  font-family: sans-serif;
+  color: lavender;
+}
 .fancy{
   font-size: 80px;
   font-style: italic;
   font-style: oblique;
   font-family: cursive;
+}
+.fancy2{
+  font-size: 40px;
+  font-style: italic;
+  font-style: oblique;
+  font-family: cursive;
+}
+.description{
+  font-size: 15px;
+  font-style: italic;
+  font-family: sans-serif;
 }
