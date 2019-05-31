@@ -1,0 +1,15 @@
+.header{
+  font-style: italic;
+  font-size: 30px;
+  border: 2px solid black;
+  padding: 3px;
+  background-color: teal;
+  text-shadow: 1px 1px lavender;
+}
+.jumbotron{
+  text-align: center;
+  font-size: 10px;
+  h1 font-size: 10px;
+  background-image: url("960_grid.png");
+}
+}
