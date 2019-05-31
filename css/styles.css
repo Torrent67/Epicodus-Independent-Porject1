@@ -19,11 +19,12 @@
   text-shadow: 2px 2px black;
 }
 .jumbotron{
-  background-image: url(img/rain.jpg);
+  background-image: url(img/rain.gif);
+  background-size: cover;
   text-align: center;
   font-size: 30px;
   h1 font-size: 10px;
-  text-shadow: 1px 1px lavender;
+  text-shadow: 2px 2px black;
   font-style: italic;
 }
 .column {
