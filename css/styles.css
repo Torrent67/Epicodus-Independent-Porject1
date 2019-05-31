@@ -22,7 +22,9 @@ body{
   text-shadow: 2px 2px black;
 }
 .jumbotron{
-  background-image: url(img/rain.gif);
+  height: 400px;
+  color: lavender;
+  background-image: url(img/rain2.gif);
   background-size: cover;
   text-align: center;
   font-size: 30px;
@@ -71,4 +73,9 @@ body{
 .interests{
   font-size: 15px;
   font-family: sans-serif;
+}
+@@media query screen and (max-width:980px) and (max-width:1200px){
+  .panel {
+    height: : 32vh;
+  }
 }
