@@ -22,7 +22,7 @@ _If you need help I need it more_
 
 ## Technologies Used
 
-_This page was made with HTML, CSS, Bootstrap.css_
+_This page was made with HTML, CSS, and Bootstrap.css_
 
 ### License
 
