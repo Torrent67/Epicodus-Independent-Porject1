@@ -32,7 +32,6 @@ body{
 }
 .jumbotron{
   height: 300px;
-  width: 1200px;
   color: lavender;
   background-image: url(img/rain2.gif);
   background-size: cover;
@@ -43,7 +42,6 @@ body{
   font-style: italic;
 }
 .jumbotron2{
-  width: 1200px;
   background-image: url(img/rain2.gif);
   background-size: cover;
 }
