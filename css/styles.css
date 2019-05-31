@@ -80,12 +80,11 @@ body{
 .interests{
   font-size: 20px;
   font-family: sans-serif;
-  font-style: italic;
 }
 @@media query screen and (max-width:980px) and (max-width:1200px){
   .panel {
     height: : 32vh;
-  }
-.why h1{
-  font-size: 1px;
+}
+.why p{
+  font-size: 40px;
 }
